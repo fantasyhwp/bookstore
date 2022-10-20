@@ -1,0 +1,19 @@
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\bin\Debug\Final Project.exe.config
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\bin\Debug\Final Project.exe
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\bin\Debug\Final Project.pdb
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\obj\Debug\Final Project.exe
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\obj\Debug\Final Project.pdb
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\obj\Debug\Final_Project.GUI.LoginForm.resources
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\obj\Debug\Final_Project.GUI.FormEmployees.resources
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\obj\Debug\Final_Project.GUI.Sales_Manager.resources
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\obj\Debug\Final_Project.GUI.InventoryControllerForm.resources
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\bin\Debug\EntityFramework.dll
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\bin\Debug\EntityFramework.SqlServer.dll
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\bin\Debug\EntityFramework.xml
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\bin\Debug\EntityFramework.SqlServer.xml
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\obj\Debug\Final_Project.GUI.OrderManagement.resources
+D:\2020 full\MULTI-TIER APPLICATIONS\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
